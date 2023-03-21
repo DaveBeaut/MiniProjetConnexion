@@ -8,3 +8,8 @@ if (isset($_GET["action"])) {
 	$action = $_GET["action"];
 }
 
+
+
+echo 'test';
+echo 'toto';
+echo 'test';
