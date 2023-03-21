@@ -11,5 +11,8 @@
             "email": "117293937+DaveBeaut@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+    
 }
