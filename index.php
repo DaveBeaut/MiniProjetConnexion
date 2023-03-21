@@ -15,3 +15,4 @@ require RACINE . "/controleur/" . $fichier;
 
 echo 'test';
 echo 'toto';
+echo 'test';
