@@ -8,7 +8,10 @@ if (isset($_GET["action"])) {
 	$action = $_GET["action"];
 }
 
+require __DIR__ . '/vendor/autoload.php';
 
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
 
 echo 'test';
 echo 'toto';
