@@ -1,0 +1,15 @@
+{
+    "name": "kercode07/mini-projet",
+    "autoload": {
+        "psr-4": {
+            "Kercode07\\MiniProjet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DaveBeaut",
+            "email": "117293937+DaveBeaut@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
